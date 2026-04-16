@@ -12,7 +12,7 @@ I am a final-year CS-AIML student documenting my journey as I build my technical
 - The intersection of AI tools, content creation, and digital media.
 
 ### 📫 Let's Connect
-- **LinkedIn:** [Insert your LinkedIn URL here]
+- **LinkedIn:** 
 - 
 <!--
 **aadityasood/aadityasood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
