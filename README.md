@@ -4,12 +4,24 @@ B.Tech CSE (AI & ML) graduate building practical software across Android and loc
 
 Currently focused on Kotlin/Android, TypeScript, and strengthening my AI/ML foundations.
 
-`Kotlin | Android | TypeScript`
+<p align="left">
+  <img src="assets/icons/kotlin-original.svg" width="38" height="38" alt="Kotlin" title="Kotlin" />
+  &nbsp;
+  <img src="assets/icons/android-original.svg" width="38" height="38" alt="Android" title="Android" />
+  &nbsp;
+  <img src="assets/icons/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="assets/icons/react-original.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;
+  <img src="assets/icons/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="assets/icons/git-original.svg" width="38" height="38" alt="Git" title="Git" />
+</p>
 
 [LinkedIn](https://www.linkedin.com/in/aaditya-sood-3aab86403/)
 
-<p align="right">
-  <img src="assets/four-star-dragon-ball.gif" width="304" height="64" alt="A small four-star Dragon Ball bounces along a red divider toward a code mark." />
+<p align="center">
+  <img src="assets/four-star-dragon-ball.gif" alt="A four-star Dragon Ball travels across a red divider toward a code mark." />
 </p>
 
 ## Featured work
