@@ -1,30 +1,39 @@
-# Hi there! 👋 I'm Aaditya Sood
+# Hi, I'm Aaditya.
 
-I am a final-year CS-AIML student documenting my journey as I build my technical portfolio from the ground up. I am preparing to pursue my Master's in Germany in 2027, and my current focus is on building a rock-solid, practical foundation in AI and Python.
+B.Tech CSE (AI & ML) graduate building practical software across Android and local-first product systems.
 
-### 🌱 What I'm Learning Right Now
-- Starting the **Google AI Professional Certificate** to master applied AI fundamentals.
-- Exploring Python programming for real-world applications.
-- Actively studying German to reach B2 proficiency.
+Currently focused on Kotlin/Android, TypeScript, and strengthening my AI/ML foundations.
 
-### 🔭 What I'm Interested In
-- Large Language Models (LLMs) and prompt engineering.
-- The intersection of AI tools, content creation, and digital media.
+<p align="left">
+  <img src="assets/icons/kotlin-original.svg" width="38" height="38" alt="Kotlin" title="Kotlin" />
+  &nbsp;
+  <img src="assets/icons/android-original.svg" width="38" height="38" alt="Android" title="Android" />
+  &nbsp;
+  <img src="assets/icons/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;
+  <img src="assets/icons/react-original.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;
+  <img src="assets/icons/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;
+  <img src="assets/icons/git-original.svg" width="38" height="38" alt="Git" title="Git" />
+</p>
 
-### 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/aaditya-sood-3aab86403/
-- 
-<!--
-**aadityasood/aadityasood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://www.linkedin.com/in/aaditya-sood-3aab86403/)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/four-star-dragon-ball.gif" alt="A four-star Dragon Ball travels across a red divider toward a code mark." />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+### [ProShot](https://github.com/aadityasood/ProShot) | Android camera engineering
+
+An auto-first Android camera prototype that combines CameraX preview with lifecycle-controlled Camera2 single-frame YUV capture, deterministic global processing, and JPEG/MediaStore output. The work also covers autofocus, rotation-aware feedback, hardware-input handling, and accessibility-aware UI behavior.
+
+### [Trophy Oracle](https://github.com/aadityasood/trophy-oracle) | Deterministic data foundation
+
+A public React and TypeScript prototype for fictional PS/Xbox/Steam trophy data, strict validation, and a deterministic local progress layer. It is currently an early data foundation: the visible UI does not consume that progress state, and no AI runtime, retrieval, or evaluation system is implemented.
+
+## Learning
+
+Preparing for an English-taught MSc in Germany while studying German and strengthening my AI/ML foundations.
